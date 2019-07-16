@@ -1,0 +1,36 @@
+/* Your app custom styles here */
+.page{
+  font-family:sans-serif;
+  background: url(../assets/img/backgroundimg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  background-color: none;
+}
+
+.item-inner
+{
+  padding: 0 !important;
+  background-color: red;
+  background: none;
+}
+.item-inner-wrap
+{
+  padding: 0px 0px 0px 0px !important;
+}
+
+.item-input{
+  padding: 0px 0px 0px 0px !important;
+  input
+{
+  padding: 0px 0px 0px 0px !important;
+  text-align: center;
+  color:white;
+  border:1px solid white;
+  border-radius: 5px ;
+  color:white;
+  opacity: 1.9;
+  }
+}
